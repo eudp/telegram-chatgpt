@@ -4,7 +4,8 @@ You need to have installed [ChatGPT](https://github.com/acheong08/ChatGPT) in yo
 
 ## Setup
 
-`npm i`
+- `npm i`
+- Get your Telegram token and put it in the .env file. 
 
 ## Run
 
