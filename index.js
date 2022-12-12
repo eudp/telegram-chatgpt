@@ -1,5 +1,6 @@
 const TelegramBot = require("node-telegram-bot-api");
 const { fork } = require("node:child_process");
+require('dotenv').config()
 
 const token = process.env.TELEGRAM_TOKEN;
 
